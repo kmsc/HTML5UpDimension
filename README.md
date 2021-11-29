@@ -3,4 +3,4 @@ Sourced From: https://html5up.net
 
 
 Sample Image: 
-![Dimension](/DimensionSample)
+![Dimension](/DimensionSample.png)
