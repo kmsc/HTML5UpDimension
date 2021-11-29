@@ -1,2 +1,2 @@
-# HTML5UpDimension
-HTML5Up Dimension
+# HTML5Up - Dimension
+Sourced From: https://html5up.net
